@@ -1,0 +1,3 @@
+<button class="btn btn-primary" (click)="buttonClicked($event)">Display Details</button>
+<p *ngIf="textDisplayed">Password: tuna</p>
+<li *ngFor= "let count of btnStats" [ngStyle]="{backgroundColor: count >= 5 ? 'blue' : 'white'}" [ngClass] = "{whiteColor: count >= 5}">{{count}}</li>
