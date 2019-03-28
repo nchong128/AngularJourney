@@ -8,11 +8,10 @@ import { Component, OnInit } from '@angular/core';
 export class BtnComponent implements OnInit {
   textDisplayed: boolean = true;
   btnStats = [];
-  
+
   buttonClicked(event) {
     this.textDisplayed = !this.textDisplayed;
-    
-    if (this.btnStats.length == 0) {
+    if (this.btnStats.length === 0) {
       this.btnStats.push(1);
     } else {
       this.btnStats.push(this.btnStats[this.btnStats.length - 1] + 1);

@@ -7,7 +7,6 @@ import { Component, OnInit } from '@angular/core';
 })
 export class InputComponent implements OnInit {
   username: string = '';
-  isEmpty: boolean = true;
 
   constructor() {
 
@@ -17,17 +16,8 @@ export class InputComponent implements OnInit {
 
   }
 
-  checkEmpty(event) {
-    if ((<HTMLInputElement>event.target).value.length != 0) {
-      this.isEmpty = false;
-    } else {
-      this.isEmpty = true;
-    }
-  }
-
   resetInput() {
     this.username = '';
-    this.isEmpty = true;
   }
 
 
