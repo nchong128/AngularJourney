@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b7407c0d-e701-4b0a-86a6-b7ad62121958" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Routing/routing-final/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routing/routing-fun/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Routing/routing-fun/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routing/routing-fun/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Routing/routing-fun/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routing/routing-fun/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Routing/routing-fun/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routing/routing-fun/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Routing/routing-fun/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-image/sloth-image.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-image/sloth-image.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +30,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -79,21 +83,21 @@
         <option value="$PROJECT_DIR$/Routing/routing-start/src/app/app-routing/app-routing.module.ts" />
         <option value="$PROJECT_DIR$/Routing/routing-start/src/app/servers/server/server.component.ts" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/app.component.spec.ts" />
-        <option value="$PROJECT_DIR$/Routing/routing-fun/angular.json" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth.component.html" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-info/sloth-info.component.html" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/header/header.component.html" />
-        <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/home/home.component.spec.ts" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-info/sloth-info.component.ts" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/home/home.component.ts" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/home/home.component.html" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/app-routing/app-routing.module.ts" />
-        <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-image/sloth-image.component.ts" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloths.service.ts" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/app.component.ts" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth.component.ts" />
+        <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-image/sloth-image.component.ts" />
+        <option value="$PROJECT_DIR$/Routing/routing-fun/angular.json" />
       </list>
     </option>
   </component>
@@ -104,9 +108,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,8 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,12 +135,6 @@
               <item name="angular" type="b2602c69:ProjectViewProjectNode" />
               <item name="angular" type="462c0819:PsiDirectoryNode" />
               <item name="Routing" type="462c0819:PsiDirectoryNode" />
-              <item name="routing-final" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="Routing" type="462c0819:PsiDirectoryNode" />
               <item name="routing-fun" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,24 +151,6 @@
               <item name="routing-fun" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="Routing" type="462c0819:PsiDirectoryNode" />
-              <item name="routing-fun" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="app-routing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="Routing" type="462c0819:PsiDirectoryNode" />
-              <item name="routing-fun" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular" type="b2602c69:ProjectViewProjectNode" />
@@ -193,20 +171,12 @@
               <item name="sloth" type="462c0819:PsiDirectoryNode" />
               <item name="sloth-image" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="angular" type="b2602c69:ProjectViewProjectNode" />
-              <item name="angular" type="462c0819:PsiDirectoryNode" />
-              <item name="Routing" type="462c0819:PsiDirectoryNode" />
-              <item name="routing-fun" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="sloth" type="462c0819:PsiDirectoryNode" />
-              <item name="sloth-info" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,7 +192,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="MTConfigurable" />
     <property name="show.migrate.to.gradle.popup" value="false" />
-    <property name="ts.external.directory.path" value="C:\Users\LG4000\Desktop\angular\Routing\routing-start\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\LG4000\Desktop\angular\Basics\basics-assignment-3-start\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -264,11 +234,13 @@
       <workItem from="1556267675747" duration="12552000" />
       <workItem from="1556334066564" duration="1797000" />
       <workItem from="1556371103818" duration="11962000" />
+      <workItem from="1556428086470" duration="6743000" />
+      <workItem from="1556446396666" duration="611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92219000" />
+    <option name="totallyTimeSpent" value="99573000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -282,7 +254,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25263157" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25668016" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -298,9 +270,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
       <window_info anchor="bottom" id="TypeScript" order="7" weight="0.32774675" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49878544" visible="true" weight="0.6163873" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4979757" weight="0.5176909" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50121456" side_tool="true" visible="true" weight="0.6163873" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020243" side_tool="true" weight="0.61452514" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
@@ -318,6 +290,43 @@
       <window_info anchor="right" id="Palette&#9;" order="10" />
       <window_info anchor="right" id="Theme Preview" order="11" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25263157" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32955465" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.54442346" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7877095" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="TypeScript" order="7" weight="0.32774675" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4979757" weight="0.32588455" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020243" side_tool="true" weight="0.61452514" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32993197" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" weight="0.32955465" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="SciView" order="8" weight="0.32955465" />
+      <window_info anchor="right" id="Database" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="11" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -333,25 +342,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-start/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-start/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-final/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-start/how-to-use.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="79" lean-forward="true" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Routing/routing-start/node_modules/bootstrap/dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -376,23 +366,7 @@
     <entry file="file://$PROJECT_DIR$/Routing/routing-start/src/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/header/header.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/angular.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/header/header.component.ts" />
     <entry file="file://$PROJECT_DIR$/Routing/routing-final/src/app/home/home.component.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -452,27 +426,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-final/src/app/app.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-final/src/app/app.component.spec.ts" />
     <entry file="file://$PROJECT_DIR$/Routing/routing-final/src/app/users/user/user.component.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-final/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routing/routing-final/src/app/auth.service.ts">
       <provider selected="true" editor-type-id="text-editor" />
@@ -521,32 +477,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-final/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="25" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/header/header.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="26" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/home/home.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/header/header.component.html" />
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/home/home.component.spec.ts" />
     <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/app.component.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/home/home.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/home/home.component.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -555,64 +489,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/app-routing/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-image/sloth-image.component.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-image/sloth-image.component.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-image/sloth-image.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloths.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/app.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -626,6 +509,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-info/sloth-info.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -633,13 +523,124 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-final/src/app/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/app-routing/app-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-final/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/node_modules/free-google-image-search/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-373">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/node_modules/free-google-image-search/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/node_modules/lodash/_assocIndexOf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/node_modules/lodash/_strictLastIndexOf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/styles.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-image/sloth-image.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth-image/sloth-image.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/sloth/sloth.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        <state relative-caret-position="187">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
           <folding>
             <element signature="e#0#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Routing/routing-fun/angular.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
         </state>
       </provider>
     </entry>
